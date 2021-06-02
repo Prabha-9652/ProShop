@@ -1,0 +1,19 @@
+0 info it worked if it ends with ok
+1 verbose cli [
+1 verbose cli   'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Users\\Thopu Prabhakar\\AppData\\Roaming\\npm\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'start'
+1 verbose cli ]
+2 info using npm@6.14.5
+3 info using node@v12.18.1
+4 verbose run-script [ 'prestart', 'start', 'poststart' ]
+5 info lifecycle frontend@0.1.0~prestart: frontend@0.1.0
+6 info lifecycle frontend@0.1.0~start: frontend@0.1.0
+7 verbose lifecycle frontend@0.1.0~start: unsafe-perm in lifecycle true
+8 verbose lifecycle frontend@0.1.0~start: PATH: C:\Users\Thopu Prabhakar\AppData\Roaming\npm\node_modules\npm\node_modules\npm-lifecycle\node-gyp-bin;C:\Users\Thopu Prabhakar\Desktop\Proshop\frontend\node_modules\.bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Thopu Prabhakar\bin;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\Python38\Scripts;C:\Python38;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Java\jre1.8.0_231\bin;C:\Program Files\Java\jdk1.8.0_241\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\usr\bin;C:\xampp\php;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Users\Thopu Prabhakar\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Git\usr\bin;C:\Users\Thopu Prabhakar\AppData\Roaming\npm;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps
+9 verbose lifecycle frontend@0.1.0~start: CWD: C:\Users\Thopu Prabhakar\Desktop\Proshop\frontend
+10 silly lifecycle frontend@0.1.0~start: Args: [ '/d /s /c', 'react-scripts start' ]
+11 timing npm Completed in 407634ms
+12 error cb() never called!
+13 error This is an error with npm itself. Please report this error at:
+14 error <https://npm.community>
