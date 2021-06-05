@@ -10,4 +10,4 @@ Used Concurrently to run both at a time
 From ProShop folder to start app
 Command : npm run dev
 
-Updated on 02-June-2021
+Updated on 02-June-2021 - Sunday
